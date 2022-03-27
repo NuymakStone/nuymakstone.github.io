@@ -1,1 +1,0 @@
-function hitokoto(){document.write("自古英雄出少年，似水红颜惹人怜。");}
